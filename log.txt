@@ -1,0 +1,6 @@
+Se ha producido un error en archivo1.txt: 2023-11-30 19:10:42.872097
+Se ha producido un error en archivo1.txt: 2023-11-30 19:11:47.651682
+Se ha producido un error en archivo1.txt: 2023-11-30 19:13:12.266595
+Se ha producido un error en archivo1.txt: 2023-12-04 08:30:46.419479
+Se ha producido un error en archivo1.txt: 2023-12-04 08:30:49.746288
+Se ha producido un error en archivo1.txt: 2023-12-04 08:30:53.056378
